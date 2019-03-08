@@ -1,0 +1,17 @@
+{
+    "name": "NuevoClienteServicioWeb",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "lorenaquintero",
+    "contributors": [],
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "request": "^2.81.0"
+    }
+}
